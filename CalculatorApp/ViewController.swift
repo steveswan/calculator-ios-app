@@ -6,6 +6,8 @@
 //  Copyright © 2016 Stephen Labedz. All rights reserved.
 //
 
+// Original project
+
 import UIKit
 import AVFoundation
 
