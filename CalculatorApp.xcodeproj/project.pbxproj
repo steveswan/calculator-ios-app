@@ -14,7 +14,6 @@
 		A497FEBC1C74437F004EE861 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A497FEBA1C74437F004EE861 /* LaunchScreen.storyboard */; };
 		A497FEE21C7501CD004EE861 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A497FEE11C7501CD004EE861 /* Minecraft.ttf */; };
 		A497FEE41C750693004EE861 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = A497FEE31C750693004EE861 /* btn.wav */; };
-		A497FEE61C7538DF004EE861 /* newFileTest.txt in Resources */ = {isa = PBXBuildFile; fileRef = A497FEE51C7538DF004EE861 /* newFileTest.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		A497FEBD1C74437F004EE861 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A497FEE11C7501CD004EE861 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 		A497FEE31C750693004EE861 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
-		A497FEE51C7538DF004EE861 /* newFileTest.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = newFileTest.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,7 +42,6 @@
 		A497FEA51C74437F004EE861 = {
 			isa = PBXGroup;
 			children = (
-				A497FEE51C7538DF004EE861 /* newFileTest.txt */,
 				A497FEB01C74437F004EE861 /* CalculatorApp */,
 				A497FEAF1C74437F004EE861 /* Products */,
 			);
@@ -133,7 +130,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A497FEE41C750693004EE861 /* btn.wav in Resources */,
-				A497FEE61C7538DF004EE861 /* newFileTest.txt in Resources */,
 				A497FEBC1C74437F004EE861 /* LaunchScreen.storyboard in Resources */,
 				A497FEB91C74437F004EE861 /* Assets.xcassets in Resources */,
 				A497FEE21C7501CD004EE861 /* Minecraft.ttf in Resources */,
